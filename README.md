@@ -1,68 +1,71 @@
 📰 Magazine Cover Webpage (HTML & CSS)
-
-📌 Objective
-
+---
+<b>📌 Objective<br></b>
 Design a visually appealing webpage that resembles the cover of a magazine. This project focuses on improving skills in typography, layout design, and creative layering using only HTML and CSS.
 
-🚀 Project Overview
-
-This project recreates a modern magazine cover layout with:
-
-A bold featured section (image or text)
-Stylish headlines and captions
-Decorative design elements using pure CSS
+---
+<b>🚀 Project Overview</b>
+This project recreates a modern magazine cover layout with:<br>
+A bold featured section (image or text)<br>
+Stylish headlines and captions<br>
+Decorative design elements using pure CSS<br>
 
 It helps in understanding how to structure content and make it visually engaging without using JavaScript.
 
-🎯 Features
-🖼️ Large Featured Image / Title
-Eye-catching hero section
-Can use either a background image or bold typography
-Acts as the main focus of the page
-✍️ Styled Headlines & Captions
-Multiple font sizes and styles
-Creative positioning using CSS (absolute, flexbox, grid)
-Magazine-style layout for articles
-🎨 Decorative Elements
-Lines, overlays, and shapes
-Use of ::before and ::after pseudo-elements
-Layering effects using z-index
+---
+<b>🎯 Features<br></b>
+🖼️ Large Featured Image / Title<br>
+Eye-catching hero section<br>
+Can use either a background image or bold typography<br>
+Acts as the main focus of the page<br>
 
-🛠️ Technologies Used
-HTML5
-CSS3
-Flexbox / Grid
-Positioning
-Pseudo-elements (::before, ::after)
-Typography styling
+---
+✍️ Styled Headlines & Captions<br>
+Multiple font sizes and styles<br>
+Creative positioning using CSS (absolute, flexbox, grid)<br>
+Magazine-style layout for articles<br>
 
-📂 Project Structure
-📁 magazine-cover
-│── index.html
-│── style.css
-│── assets/
-│   └── images/
-│── README.md
+---
+🎨 Decorative Elements<br>
+Lines, overlays, and shapes<br>
+Use of ::before and ::after pseudo-elements<br>
+Layering effects using z-index<br>
 
-📸 Preview
+---
+<b>🛠️ Technologies Used<br></b>
+HTML5<br>
+CSS3<br>
+Flexbox / Grid<br>
+Positioning<br>
+Pseudo-elements (::before, ::after)<br>
+Typography styling<br>
 
-(Add a screenshot of your project here)
+---
+<b>📂 Project Structure<br></b>
+📁 magazine-cover<br>
+│── index.html<br>
+│── style.css<br>
+│── assets/<br>
+│   └── images/<br>
+│── README.md<br>
 
-💡 Learning Outcomes
-Mastering layout design techniques
-Improving typography and visual hierarchy
-Understanding layering and positioning in CSS
-Using pseudo-elements for design enhancements
+---
+<b>💡 Learning Outcomes<br></b>
+Mastering layout design techniques<br>
+Improving typography and visual hierarchy<br>
+Understanding layering and positioning in CSS<br>
+Using pseudo-elements for design enhancements<br>
 
-🔧 How to Run the Project
+---
+<b>🔧 How to Run the Project</b>
 
 Clone the repository:
+git clone https://github.com/your-username/magazine-cover.git<br>
+Open the project folder<br>
+Run index.html in your browser<br>
 
-git clone https://github.com/your-username/magazine-cover.git
-Open the project folder
-Run index.html in your browser
-
-🌟 Future Improvements
-Add responsiveness for mobile devices
-Include animations (CSS transitions)
-Try multiple magazine themes
+---
+<b>🌟 Future Improvements<br></b>
+Add responsiveness for mobile devices<br>
+Include animations (CSS transitions)<br>
+Try multiple magazine themes<br>
