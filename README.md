@@ -63,9 +63,3 @@ Clone the repository:
 git clone https://github.com/your-username/magazine-cover.git<br>
 Open the project folder<br>
 Run index.html in your browser<br>
-
----
-<b>🌟 Future Improvements<br></b>
-Add responsiveness for mobile devices<br>
-Include animations (CSS transitions)<br>
-Try multiple magazine themes<br>
